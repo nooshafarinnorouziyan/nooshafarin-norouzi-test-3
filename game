@@ -1,0 +1,16 @@
+import random 
+print (" hello \ n")
+print ("if you got 6 you can roll again")
+while true:
+    print("choose a option :\n1)start game 1 dice \n2)start game 2 dice n 3)exit")
+    choice = input ("enter a choose:")
+    if choice == "1"
+    print ("dice :"+str(random.randint(1,7)))
+    elifechoice == "2":
+    print ("dice :"+str (random.randint(1,7)),end= "")
+    elifechoice == "3":
+    break
+    if roll == 6:
+     print("great you have another chance try again")
+    else :
+       print ("error")
